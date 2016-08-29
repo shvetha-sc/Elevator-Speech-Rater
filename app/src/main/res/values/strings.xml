@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Elevator Pitch rater</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="record_speech">Record Elevator Pitch</string>
+    <string name="converted_speech">Converted Speech</string>
+    <string name="speech_not_supported">Speech is not supported</string>
+    <string name="rate_pitch">Rate My Elevator Pitch</string>
 </resources>

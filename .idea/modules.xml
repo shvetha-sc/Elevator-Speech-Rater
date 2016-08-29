@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ElevatorPitchrater.iml" filepath="$PROJECT_DIR$/ElevatorPitchrater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Elevator-Speech-Rater.iml" filepath="$PROJECT_DIR$/Elevator-Speech-Rater.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
