@@ -1,4 +1,4 @@
-# Elevator-Speech-Rater
+# Elevator Pitch Rater
 
 An elevator pitch is a quick, well-drafted speech that describes what you are and what you intend on obtaining in a short and 
 a precise format.Most people struggle with this task of coming up with a good elevator pitch.Our app intends on helping the user improve 
