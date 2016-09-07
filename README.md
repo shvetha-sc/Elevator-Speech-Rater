@@ -13,6 +13,6 @@ upon his existing speech by rating and suggesting improvements.
 5.An overall speech rating is also presented to the user<br/>
 
 # Technologies
-1.Android
+1.Android<br/>
 2.Big Thesaurus API
 
